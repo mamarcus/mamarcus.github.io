@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>industrial ecology | Maghimai Marcus</title>
+    <link>https://mamarcus.github.io/tag/industrial-ecology/</link>
+      <atom:link href="https://mamarcus.github.io/tag/industrial-ecology/index.xml" rel="self" type="application/rss+xml" />
+    <description>industrial ecology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Maghimai Marcus, 2021</copyright><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mamarcus.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>industrial ecology</title>
+      <link>https://mamarcus.github.io/tag/industrial-ecology/</link>
+    </image>
+    
+    <item>
+      <title>Application of Industrial Ecology Concepts to the Steel Consumption in Singapore</title>
+      <link>https://mamarcus.github.io/publication/maghi_2012/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/publication/maghi_2012/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resource Use for Steel Consumption in Asia - An Indicator approach for Resource Efficiency Policies</title>
+      <link>https://mamarcus.github.io/publication/sieyp_2011/</link>
+      <pubDate>Sat, 11 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/publication/sieyp_2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

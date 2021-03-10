@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stochastic modelling | Maghimai Marcus</title>
+    <link>https://mamarcus.github.io/tag/stochastic-modelling/</link>
+      <atom:link href="https://mamarcus.github.io/tag/stochastic-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>stochastic modelling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Maghimai Marcus, 2021</copyright><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mamarcus.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>stochastic modelling</title>
+      <link>https://mamarcus.github.io/tag/stochastic-modelling/</link>
+    </image>
+    
+    <item>
+      <title>Urban Metabolism of Steel in Singapore using Material Flow Analysis based Markov Chain Modeling</title>
+      <link>https://mamarcus.github.io/publication/steel_markov_2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/publication/steel_markov_2015/</guid>
+      <description>
+
+
+
+
+
+&lt;figure  id=&#34;figure-steel-markov-chain-mfa&#34;&gt;
+    &lt;img alt=&#34;Steel Markov Chain MFA&#34; srcset=&#34;
+           /publication/steel_markov_2015/steel_markov_hu5ac3bde57d5b74cc2bfdc6e0acda1c65_180608_38431fa325f797777d16361f78a0c18a.png 400w,
+           /publication/steel_markov_2015/steel_markov_hu5ac3bde57d5b74cc2bfdc6e0acda1c65_180608_48d5c56fdff4ae25830c873eec1d07ca.png 760w,
+           /publication/steel_markov_2015/steel_markov_hu5ac3bde57d5b74cc2bfdc6e0acda1c65_180608_1200x1200_fit_lanczos_2.png 1200w&#34;
+           src=&#34;https://mamarcus.github.io/publication/steel_markov_2015/steel_markov_hu5ac3bde57d5b74cc2bfdc6e0acda1c65_180608_38431fa325f797777d16361f78a0c18a.png&#34;
+           width=&#34;760&#34;
+           height=&#34;484&#34;
+           loading=&#34;lazy&#34;
+           data-zoomable /&gt;
+    
+    
+    
+    &lt;figcaption&gt;
+      Steel Markov Chain MFA
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;Consumption of minerals and ores is imperative for economic growth. It also raises serious concerns on environmental protection and livelihoods of people. Understanding their material flow in order to develop policies that shape economy and environment is essential for sustainability. In this study, material flow analysis based Markov chain modeling has been attempted to study the technological lifetime and an average number of times of use of iron and steel in Singapore. The study found out that 1 kg of iron and steel that enter the base year 2007 in Singapore will have an average residence time of 32.69 years with 1.627 times of use in all the sectors when exports are included. In the case of exclusion of exports, it will have 25.302 times of average use in all the sectors in Singapore. The results are analyzed in the peculiar context of Singapore being a ‘City-State’ where it neither has the ‘harbor effect’ of cities like Rotterdam, Hamburg, and Lisbon; nor has the resources of a big country to landfill its wastes. To elucidate the material flow of iron and steel in future, which in turn strongly linked to Singapore’s economic growth trajectory, sophisticated modeling techniques -like dynamic stochastic modeling- that complement both top-down and bottom-up approaches are required.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MES | Maghimai Marcus</title>
+    <link>https://mamarcus.github.io/tag/mes/</link>
+      <atom:link href="https://mamarcus.github.io/tag/mes/index.xml" rel="self" type="application/rss+xml" />
+    <description>MES</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Maghimai Marcus, 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mamarcus.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>MES</title>
+      <link>https://mamarcus.github.io/tag/mes/</link>
+    </image>
+    
+    <item>
+      <title>Microbial Electrosynthesis</title>
+      <link>https://mamarcus.github.io/project/mes/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/project/mes/</guid>
+      <description>
+
+
+
+
+
+&lt;figure  &gt;
+    &lt;img alt=&#34;&#34; srcset=&#34;
+           /project/mes/mes_hu74c76fc9d194b621ae32b9a04e03c5b6_90589_a85a431bf298edfcd073a16e3d4c34b4.png 400w,
+           /project/mes/mes_hu74c76fc9d194b621ae32b9a04e03c5b6_90589_85a2d76f51ad41693254898a561fbfb7.png 760w,
+           /project/mes/mes_hu74c76fc9d194b621ae32b9a04e03c5b6_90589_1200x1200_fit_lanczos_2.png 1200w&#34;
+           src=&#34;https://mamarcus.github.io/project/mes/mes_hu74c76fc9d194b621ae32b9a04e03c5b6_90589_a85a431bf298edfcd073a16e3d4c34b4.png&#34;
+           width=&#34;590&#34;
+           height=&#34;365&#34;
+           loading=&#34;lazy&#34;
+           data-zoomable /&gt;
+    
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;technology-description&#34;&gt;Technology description&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;The microbial electrosynthesis  system performs both oxidation and reduction of  organic and inorganic substrates using electrotrophs such as Geobacteraceae species and Shawanaellasea species. These bacterial spp. have  c-type cytochromes present in their outer  cell membranes and pili  to faciliate direct electron transfer (DET) which sustains the process (Martinez et al.2013; Rabaey &amp;amp;Rozendal, 2010). Those bacterial species are  generally immobilised on the surfaces of  anode and cathode in an anaerobic environment.  The electrodes are  connected through a power source and separated by a selective membrane. The general mechanism inside the cell  involves oxidation of electron donor substrate by the microbes resulting in electrons being  released to  anode, which is then mobilised towards cathode via the power source. At cathode, along with generated protons permeated across  membrane, the electron flow is received by microbes to reduce the electron accepting substrates, which  will result in fuels, chemicals and less toxic substances (Nevin et al., 2010). The flow of electric current between anode and cathode sustains the electrode catalysis of  microbes mostly with little electrical input and zero chemicals, while the release of CO&lt;sub&gt;2&lt;/sub&gt; at anode could be collected and reused and reduced at cathode to produce valuable byproducts  such as biopolymers, methane, and ethanol, etc., which in turn makes the system more attractive for waste management and bioremediation. The selective membranes prevents the flow of oxygen to cathode region, which ensures the accumulation of proton charge. Further, poising the cathodes at selective electric potential (Nernst law) prevents the build up of explosive gases inside the chamber that ensures better control over the system (Lovley, 2011).&lt;/p&gt;
+&lt;h3 id=&#34;scope-and-system-boundary&#34;&gt;Scope and system boundary&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;As  in figure 1, the system boundary includes the  inputs required for production of biogas and ethanol such as energy (electricity mix data, pretreatment and post-treatment, and manufacture of chemicals), fuel (transportation), chemicals, electrodes, reactors, and infrastructure of WWTP. Negligible emissions such as EOL of infrastructure can be avoided. Comparison studies (Foley et al.2010) premise their findings based on assumption that all the systems treat equal amount of input (waste water) with selective current density (1000 A.m3). When integration happens, the MEC system has to be modelled for reduction in inputs  received and the  change in respective current density (applied voltage) at which it operates.&lt;/p&gt;
+&lt;h3 id=&#34;allocation&#34;&gt;Allocation&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;Waste effluents from the system generate by-products such as  biogas, ethanol, and CO&lt;sub&gt;2&lt;/sub&gt;. Biogas remains an alternative to natural gas; ethanol has multiple uses  with production from chemical and fermentation methods; and CO&lt;sub&gt;2&lt;/sub&gt; has wide applications in industry and it can also used as an input to  same MES system or another MES system to produce other valuable by-products . Therefore,  system  could   be expanded to credit the avoided production of natural gas , ethanol  and CO&lt;sub&gt;2&lt;/sub&gt; by conventional production methods. If the resultant sludge from MES is used for fertiliser rather than being landfilled, then the system may be expanded further. However, it is expected that savings from expansion would be nullified by transportation and storage of fertiliser, given the quantity of fertiliser obtained.  Therefore , it might be modelled for  being landfilled  or being left out based on cut-off approach if the impact is negligible.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Foley, J.M., Rozendal, R.A., Hertle, C.K., Lant, P.A., &amp;amp; Rabaey, K.(2010). Life Cycle Assessment of High-Rare Anaerobic Treatment, Microbial Fuel Cells, and Microbial Electrolysis Cells. Environmental Science and Technology 44(9):3629-37.&lt;/p&gt;
+&lt;p&gt;Lovley, D.R.(2011). Powering microbes with electricity:direct electron transfer from electrodes to microbes. Environmental Microbiology Reports. 3(1):27-35.&lt;/p&gt;
+&lt;p&gt;Martinez, A.C., M ́elanie Pierra, Eric Trablyand , Nicolas Bernet. High current density via direct electron transfer by the halophilic anode respiring bacterium Geoalkalibacter subterraneus. Physical Chemistry Chemical Physics, Royal Society of Chemistry, 2013, 15 (45), pp.19699 - 19707.&lt;/p&gt;
+&lt;p&gt;Nevin, K.P., Woodard,T.L., Franks, A.E., Summers, Z. M. and Lovley, D.R. (2010). Microbial electrosynthesis: feeding microbes electricity to convert carbon dioxide and water to multicarbon extracellular organic compounds. mBio 1(2):e00103-10. doi:10.1128/mBio.00103-10.&lt;/p&gt;
+&lt;p&gt;Rabaey, K., and Rozendal, R.A.(2010). Microbial electrosynthesis: revisiting the electrical route for microbial production.  Nature Reviews Microbiology, 8:706-716.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

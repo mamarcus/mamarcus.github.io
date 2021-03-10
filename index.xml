@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maghimai Marcus</title>
+    <link>https://mamarcus.github.io/</link>
+      <atom:link href="https://mamarcus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maghimai Marcus</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Maghimai Marcus, 2021</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mamarcus.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Maghimai Marcus</title>
+      <link>https://mamarcus.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Python basics</title>
+      <link>https://mamarcus.github.io/courses/example/python/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/courses/example/python/</guid>
+      <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
+&lt;li&gt;Slower than tuples&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tuples&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
+&lt;li&gt;Tuples are faster than lists&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
+  &lt;p&gt;Yes&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://mamarcus.github.io/courses/example/visualization/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/courses/example/visualization/</guid>
+      <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hSPmj7mK6ng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;When is a heatmap useful?&lt;/summary&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Write Plotly code to render a bar chart&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import plotly.express as px
+data_canada = px.data.gapminder().query(&amp;quot;country == &#39;Canada&#39;&amp;quot;)
+fig = px.bar(data_canada, x=&#39;year&#39;, y=&#39;pop&#39;)
+fig.show()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://mamarcus.github.io/courses/example/stats/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/courses/example/stats/</guid>
+      <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+&lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
+$$&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
+  &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://mamarcus.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://mamarcus.github.io/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable
+           /&gt;
+    
+    
+    &lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://mamarcus.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agri Food Production</title>
+      <link>https://mamarcus.github.io/project/food/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/project/food/</guid>
+      <description>&lt;h3 id=&#34;system-explanation&#34;&gt;System explanation&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;The system boundary of crop production includes two main components: farm inputs and farm fuel use. Farm inputs include the application of seed, fertilizers, liming materials, and pesticides. Farm fuel use includes the energy required for farm machinery operations, farm transport, machinery supply (indirect energy), and heating and lighting requirements during drying and storage.&lt;/p&gt;
+&lt;p&gt;Farm field operations include general activities such as seeding, weed control, applying soil amendments, and harvesting. Seeding and tillage of annual crops include activities such as plow, disk and seed; weed control and pesticides application include cultivation and spraying; applying soil amendments includes use of fertilizers and lime; and harvest of annual crops include swathing (cut and windrow), combining and carting the grains off the field. Fuels used in farm machinery such as seeders, cutter bars, conveyor belts, grinders, crushers, shakers, harvesters, rollers, and tractors are also considered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Materials</title>
+      <link>https://mamarcus.github.io/project/building/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/project/building/</guid>
+      <description>&lt;h4 id=&#34;schematic-representation-of-cement-production&#34;&gt;Schematic representation of cement production&lt;/h4&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-cement-production&#34;&gt;
+    &lt;img alt=&#34;Cement Production&#34; srcset=&#34;
+           /project/building/cement_hu230e2d584f0e5e063d142feb2a755617_149892_bd51a5e2a87dbb3fc12b09fa784198f6.jpg 400w,
+           /project/building/cement_hu230e2d584f0e5e063d142feb2a755617_149892_a5f603783466c2f06a9e18558ec3a9ce.jpg 760w,
+           /project/building/cement_hu230e2d584f0e5e063d142feb2a755617_149892_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+           src=&#34;https://mamarcus.github.io/project/building/cement_hu230e2d584f0e5e063d142feb2a755617_149892_bd51a5e2a87dbb3fc12b09fa784198f6.jpg&#34;
+           width=&#34;760&#34;
+           height=&#34;443&#34;
+           loading=&#34;lazy&#34;
+           data-zoomable /&gt;
+    
+    
+    
+    &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Cement Production
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;schematic-representation-of-float-glass-production&#34;&gt;Schematic representation of float glass production&lt;/h4&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-float-glass-production&#34;&gt;
+    &lt;img alt=&#34;Float Glass Production&#34; srcset=&#34;
+           /project/building/floatglass_hu8309afdfe188a335444b1400c3d791d4_65174_4571bab198864d7363822ac343e8909d.png 400w,
+           /project/building/floatglass_hu8309afdfe188a335444b1400c3d791d4_65174_dd9ac9a9f7a98b05b09b94d3c15feb54.png 760w,
+           /project/building/floatglass_hu8309afdfe188a335444b1400c3d791d4_65174_1200x1200_fit_lanczos_2.png 1200w&#34;
+           src=&#34;https://mamarcus.github.io/project/building/floatglass_hu8309afdfe188a335444b1400c3d791d4_65174_4571bab198864d7363822ac343e8909d.png&#34;
+           width=&#34;760&#34;
+           height=&#34;383&#34;
+           loading=&#34;lazy&#34;
+           data-zoomable /&gt;
+    
+    
+    
+    &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Float Glass Production
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;schematic-representation-of-polyurethane-production&#34;&gt;Schematic representation of polyurethane production&lt;/h4&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-polyurethane-production&#34;&gt;
+    &lt;img alt=&#34;Polyurethane Production&#34; srcset=&#34;
+           /project/building/polyurethane_hu873a8604de974d8d6a905a81e3b4a585_42769_5ac255918aa917559a2d22cbfceae08a.png 400w,
+           /project/building/polyurethane_hu873a8604de974d8d6a905a81e3b4a585_42769_d98c54df9eb70327940bc58ded1455a3.png 760w,
+           /project/building/polyurethane_hu873a8604de974d8d6a905a81e3b4a585_42769_1200x1200_fit_lanczos_2.png 1200w&#34;
+           src=&#34;https://mamarcus.github.io/project/building/polyurethane_hu873a8604de974d8d6a905a81e3b4a585_42769_5ac255918aa917559a2d22cbfceae08a.png&#34;
+           width=&#34;760&#34;
+           height=&#34;536&#34;
+           loading=&#34;lazy&#34;
+           data-zoomable /&gt;
+    
+    
+    
+    &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Polyurethane Production
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;schematic-representation-of-steel-mfa&#34;&gt;Schematic representation of steel mfa&lt;/h4&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-material-flow-of-steel&#34;&gt;
+    &lt;img alt=&#34;Material Flow of Steel&#34; srcset=&#34;
+           /project/building/steel_mfa_huec0da11513be0d030ecb5e483c5c51ea_66879_70217caed95d4c80109934f47875c7d3.jpg 400w,
+           /project/building/steel_mfa_huec0da11513be0d030ecb5e483c5c51ea_66879_3f8e1a6af320b7263d3f37f7a0526b19.jpg 760w,
+           /project/building/steel_mfa_huec0da11513be0d030ecb5e483c5c51ea_66879_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+           src=&#34;https://mamarcus.github.io/project/building/steel_mfa_huec0da11513be0d030ecb5e483c5c51ea_66879_70217caed95d4c80109934f47875c7d3.jpg&#34;
+           width=&#34;760&#34;
+           height=&#34;622&#34;
+           loading=&#34;lazy&#34;
+           data-zoomable /&gt;
+    
+    
+    
+    &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Material Flow of Steel
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Microbial Electrosynthesis</title>
+      <link>https://mamarcus.github.io/project/mes/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/project/mes/</guid>
+      <description>
+
+
+
+
+
+&lt;figure  &gt;
+    &lt;img alt=&#34;&#34; srcset=&#34;
+           /project/mes/mes_hu74c76fc9d194b621ae32b9a04e03c5b6_90589_a85a431bf298edfcd073a16e3d4c34b4.png 400w,
+           /project/mes/mes_hu74c76fc9d194b621ae32b9a04e03c5b6_90589_85a2d76f51ad41693254898a561fbfb7.png 760w,
+           /project/mes/mes_hu74c76fc9d194b621ae32b9a04e03c5b6_90589_1200x1200_fit_lanczos_2.png 1200w&#34;
+           src=&#34;https://mamarcus.github.io/project/mes/mes_hu74c76fc9d194b621ae32b9a04e03c5b6_90589_a85a431bf298edfcd073a16e3d4c34b4.png&#34;
+           width=&#34;590&#34;
+           height=&#34;365&#34;
+           loading=&#34;lazy&#34;
+           data-zoomable /&gt;
+    
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;technology-description&#34;&gt;Technology description&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;The microbial electrosynthesis  system performs both oxidation and reduction of  organic and inorganic substrates using electrotrophs such as Geobacteraceae species and Shawanaellasea species. These bacterial spp. have  c-type cytochromes present in their outer  cell membranes and pili  to faciliate direct electron transfer (DET) which sustains the process (Martinez et al.2013; Rabaey &amp;amp;Rozendal, 2010). Those bacterial species are  generally immobilised on the surfaces of  anode and cathode in an anaerobic environment.  The electrodes are  connected through a power source and separated by a selective membrane. The general mechanism inside the cell  involves oxidation of electron donor substrate by the microbes resulting in electrons being  released to  anode, which is then mobilised towards cathode via the power source. At cathode, along with generated protons permeated across  membrane, the electron flow is received by microbes to reduce the electron accepting substrates, which  will result in fuels, chemicals and less toxic substances (Nevin et al., 2010). The flow of electric current between anode and cathode sustains the electrode catalysis of  microbes mostly with little electrical input and zero chemicals, while the release of CO&lt;sub&gt;2&lt;/sub&gt; at anode could be collected and reused and reduced at cathode to produce valuable byproducts  such as biopolymers, methane, and ethanol, etc., which in turn makes the system more attractive for waste management and bioremediation. The selective membranes prevents the flow of oxygen to cathode region, which ensures the accumulation of proton charge. Further, poising the cathodes at selective electric potential (Nernst law) prevents the build up of explosive gases inside the chamber that ensures better control over the system (Lovley, 2011).&lt;/p&gt;
+&lt;h3 id=&#34;scope-and-system-boundary&#34;&gt;Scope and system boundary&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;As  in figure 1, the system boundary includes the  inputs required for production of biogas and ethanol such as energy (electricity mix data, pretreatment and post-treatment, and manufacture of chemicals), fuel (transportation), chemicals, electrodes, reactors, and infrastructure of WWTP. Negligible emissions such as EOL of infrastructure can be avoided. Comparison studies (Foley et al.2010) premise their findings based on assumption that all the systems treat equal amount of input (waste water) with selective current density (1000 A.m3). When integration happens, the MEC system has to be modelled for reduction in inputs  received and the  change in respective current density (applied voltage) at which it operates.&lt;/p&gt;
+&lt;h3 id=&#34;allocation&#34;&gt;Allocation&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;Waste effluents from the system generate by-products such as  biogas, ethanol, and CO&lt;sub&gt;2&lt;/sub&gt;. Biogas remains an alternative to natural gas; ethanol has multiple uses  with production from chemical and fermentation methods; and CO&lt;sub&gt;2&lt;/sub&gt; has wide applications in industry and it can also used as an input to  same MES system or another MES system to produce other valuable by-products . Therefore,  system  could   be expanded to credit the avoided production of natural gas , ethanol  and CO&lt;sub&gt;2&lt;/sub&gt; by conventional production methods. If the resultant sludge from MES is used for fertiliser rather than being landfilled, then the system may be expanded further. However, it is expected that savings from expansion would be nullified by transportation and storage of fertiliser, given the quantity of fertiliser obtained.  Therefore , it might be modelled for  being landfilled  or being left out based on cut-off approach if the impact is negligible.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Foley, J.M., Rozendal, R.A., Hertle, C.K., Lant, P.A., &amp;amp; Rabaey, K.(2010). Life Cycle Assessment of High-Rare Anaerobic Treatment, Microbial Fuel Cells, and Microbial Electrolysis Cells. Environmental Science and Technology 44(9):3629-37.&lt;/p&gt;
+&lt;p&gt;Lovley, D.R.(2011). Powering microbes with electricity:direct electron transfer from electrodes to microbes. Environmental Microbiology Reports. 3(1):27-35.&lt;/p&gt;
+&lt;p&gt;Martinez, A.C., M ́elanie Pierra, Eric Trablyand , Nicolas Bernet. High current density via direct electron transfer by the halophilic anode respiring bacterium Geoalkalibacter subterraneus. Physical Chemistry Chemical Physics, Royal Society of Chemistry, 2013, 15 (45), pp.19699 - 19707.&lt;/p&gt;
+&lt;p&gt;Nevin, K.P., Woodard,T.L., Franks, A.E., Summers, Z. M. and Lovley, D.R. (2010). Microbial electrosynthesis: feeding microbes electricity to convert carbon dioxide and water to multicarbon extracellular organic compounds. mBio 1(2):e00103-10. doi:10.1128/mBio.00103-10.&lt;/p&gt;
+&lt;p&gt;Rabaey, K., and Rozendal, R.A.(2010). Microbial electrosynthesis: revisiting the electrical route for microbial production.  Nature Reviews Microbiology, 8:706-716.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Petroleum Refinery</title>
+      <link>https://mamarcus.github.io/project/petroleum/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/project/petroleum/</guid>
+      <description>&lt;h3 id=&#34;scope-and-system&#34;&gt;Scope and System&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;It is a well to refinery gates study. The functional unit is 1 MJ of the output fuel. It follows an aggregated approach in which the refinery plant is considered to be a single module which encompasses sub-modules. The sub-process emissions in refinery are aggregated and emissions are calculated for total energy use. The refinery configurations are broadly classified as heavy crude refineries, medium crude, and light crude. Based on the above configurations, LCI is intended for the following refinery outputs: LPG, gasoline (petrol), naphtha, kerosene, jet-fuel, diesel, heavy fuel oil, lubricating oil, wax, asphalts, and liquid fuel from coal.&lt;/p&gt;
+&lt;p&gt;The whole framework could be divided into two types of models for the ease of data collection: foreground model and background model. Foreground model is developed on primary data while the background model is based on secondary data. In this study, extraction, transportation, infrastructure, blending components (chemicals) and electricity will be part of the background model. Refinery and its sub-processes are covered under foreground model. However, for some components of foreground model such as  import from foreign countries that involves global supply chain, resorting to background model is imminent due to complex supply chains involved.&lt;/p&gt;
+&lt;p&gt;The study targets eight categories of refined fuels: 1) butane and propane, 2) naphtha, 3) gasoline(petrol), 4) kerosene and jet fuel, 5) diesel and gas oil, 6) lubricants and other products, 7) fuel oils and  8) other residues.The technologies that are assumed for the refinery process flows are :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unifer for sulphur and nitrogen removal for gasoline.&lt;/li&gt;
+&lt;li&gt;Merox for desulphurzation in jet fuel and kerosene.&lt;/li&gt;
+&lt;li&gt;Hydrotreaters for diesel and gas oil.&lt;/li&gt;
+&lt;li&gt;Vacuum distillation units for fuel oils&lt;/li&gt;
+&lt;li&gt;Catalytic Cracking unit is used to treat lighter fuels from the vacuum distillation.&lt;/li&gt;
+&lt;li&gt;Heavier Fuels from the vacuum distillations unit are processed through visbreaker units&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Steel-versus-Concrete Debate Revisited: Global Warming Potential and Embodied Energy Analyses based on Attributional and Consequential Life Cycle Perspectives</title>
+      <link>https://mamarcus.github.io/publication/kua_maghi_2016/</link>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/publication/kua_maghi_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Metabolism of Steel in Singapore using Material Flow Analysis based Markov Chain Modeling</title>
+      <link>https://mamarcus.github.io/publication/steel_markov_2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/publication/steel_markov_2015/</guid>
+      <description>
+
+
+
+
+
+&lt;figure  id=&#34;figure-steel-markov-chain-mfa&#34;&gt;
+    &lt;img alt=&#34;Steel Markov Chain MFA&#34; srcset=&#34;
+           /publication/steel_markov_2015/steel_markov_hu5ac3bde57d5b74cc2bfdc6e0acda1c65_180608_38431fa325f797777d16361f78a0c18a.png 400w,
+           /publication/steel_markov_2015/steel_markov_hu5ac3bde57d5b74cc2bfdc6e0acda1c65_180608_48d5c56fdff4ae25830c873eec1d07ca.png 760w,
+           /publication/steel_markov_2015/steel_markov_hu5ac3bde57d5b74cc2bfdc6e0acda1c65_180608_1200x1200_fit_lanczos_2.png 1200w&#34;
+           src=&#34;https://mamarcus.github.io/publication/steel_markov_2015/steel_markov_hu5ac3bde57d5b74cc2bfdc6e0acda1c65_180608_38431fa325f797777d16361f78a0c18a.png&#34;
+           width=&#34;760&#34;
+           height=&#34;484&#34;
+           loading=&#34;lazy&#34;
+           data-zoomable /&gt;
+    
+    
+    
+    &lt;figcaption&gt;
+      Steel Markov Chain MFA
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;Consumption of minerals and ores is imperative for economic growth. It also raises serious concerns on environmental protection and livelihoods of people. Understanding their material flow in order to develop policies that shape economy and environment is essential for sustainability. In this study, material flow analysis based Markov chain modeling has been attempted to study the technological lifetime and an average number of times of use of iron and steel in Singapore. The study found out that 1 kg of iron and steel that enter the base year 2007 in Singapore will have an average residence time of 32.69 years with 1.627 times of use in all the sectors when exports are included. In the case of exclusion of exports, it will have 25.302 times of average use in all the sectors in Singapore. The results are analyzed in the peculiar context of Singapore being a ‘City-State’ where it neither has the ‘harbor effect’ of cities like Rotterdam, Hamburg, and Lisbon; nor has the resources of a big country to landfill its wastes. To elucidate the material flow of iron and steel in future, which in turn strongly linked to Singapore’s economic growth trajectory, sophisticated modeling techniques -like dynamic stochastic modeling- that complement both top-down and bottom-up approaches are required.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated Policies to improve the Singapore Concrete Utilization Index - An attributional and consequential life cycle evaluation of possible effects of substituting concrete with bricks</title>
+      <link>https://mamarcus.github.io/publication/kua_sus_mar_2014/</link>
+      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/publication/kua_sus_mar_2014/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application of Industrial Ecology Concepts to the Steel Consumption in Singapore</title>
+      <link>https://mamarcus.github.io/publication/maghi_2012/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/publication/maghi_2012/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resource Use for Steel Consumption in Asia - An Indicator approach for Resource Efficiency Policies</title>
+      <link>https://mamarcus.github.io/publication/sieyp_2011/</link>
+      <pubDate>Sat, 11 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/publication/sieyp_2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainable Development in Rural India - Analysing the Barriers for Renewable Energy</title>
+      <link>https://mamarcus.github.io/publication/thesis_2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/publication/thesis_2011/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mamarcus.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
