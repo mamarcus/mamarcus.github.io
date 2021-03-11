@@ -32,10 +32,10 @@ social:
   link: https://www.researchgate.net/profile/Maghimai_Marcus2 
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/mamarcus/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/m-marcus-1341559
 superuser: true
 title: Maghimai Marcus
 ---

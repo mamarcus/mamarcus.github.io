@@ -1,7 +1,7 @@
 theme: starter-academic
-title: Maghimai Marcus
-baseurl: ''
-copyright: ''
+title: 'Maghimai Marcus'
+baseurl: 'https://mamarcus.github.io'
+copyright: "Maghimai Marcus, 2021"
 enableGitInfo: no
 defaultContentLanguage: en
 hasCJKLanguage: no
