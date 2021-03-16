@@ -17,13 +17,15 @@ tags:
 - steel
 - lca
 title: "Application of Industrial Ecology Concepts to the Steel Consumption in Singapore"
-url_code: '#'
-url_dataset: '#'
-url_pdf: 
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_pdf: 
+# url_poster: '#'
+# url_project: ""
+# url_slides: ""
+# url_source: '#'
+# url_video: '#'
 ---
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+## Abstract
+---
+The field of industrial ecology provides a system-oriented approach to reduce virgin material and energy usage in an industrial ecosystem. Steel is an important material in the structural industry; an essential component of instructure development. Since depleting raw materials pose risks to the economy growth, studying system wide steel flows using industrial ecology tools will be pivotal for future sustainability strategies. Towards that objective, in this study, we employed approaches such as MIPS (Material Input Per unit Service) and LCIA (Life Cycle Impact Assessments) to calculate the hidden material flow, and the life cycle impacts of imported and locally produced steel, respectively, used in Singapore construction industry. The results indicate that increasing the recycling and local production will have considerable benefits for Singapore steel industry. 

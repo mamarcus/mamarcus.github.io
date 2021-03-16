@@ -16,13 +16,12 @@ tags:
 - consequential
 - concrete
 title: Integrated Policies to improve the Singapore Concrete Utilization Index - An attributional and consequential life cycle evaluation of possible effects of substituting concrete with bricks
-url_code: '#'
-url_dataset: '#'
-url_pdf: 
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_pdf: 
+# url_poster: '#'
+# url_project: ""
+# url_slides: ""
+# url_source: '#'
+# url_video: '#'
 ---
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

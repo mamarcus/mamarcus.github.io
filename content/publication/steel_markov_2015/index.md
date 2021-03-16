@@ -18,14 +18,14 @@ tags:
 - stochastic modelling
 - Markov Chain
 title: "Urban Metabolism of Steel in Singapore using Material Flow Analysis based Markov Chain Modeling"
-url_code: '#'
-url_dataset: '#'
-url_pdf: 
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_pdf: 
+# url_poster: '#'
+# url_project: ""
+# url_slides: ""
+# url_source: '#'
+# url_video: '#'
 image:
   caption: 
   focal_point: ""

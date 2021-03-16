@@ -14,14 +14,14 @@ tags:
 - Metals
 - LCA
 title: "Steel-versus-Concrete Debate Revisited: Global Warming Potential and Embodied Energy Analyses based on Attributional and Consequential Life Cycle Perspectives"
-url_code: ""
-url_dataset: ""
-url_pdf: 
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+# url_code: ""
+# url_dataset: ""
+# url_pdf: 
+# url_poster: ""
+# url_project: ""
+# url_slides: ""
+# url_source: ""
+# url_video: ""
 #Adding image
 image:
   caption: 
