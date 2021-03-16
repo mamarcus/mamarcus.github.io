@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consequential | Maghimai Marcus</title>
+    <link>https://mamarcus.github.io/tag/consequential/</link>
+      <atom:link href="https://mamarcus.github.io/tag/consequential/index.xml" rel="self" type="application/rss+xml" />
+    <description>Consequential</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright:Maghimai Marcus, 2021</copyright><lastBuildDate>Thu, 31 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mamarcus.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Consequential</title>
+      <link>https://mamarcus.github.io/tag/consequential/</link>
+    </image>
+    
+    <item>
+      <title>Steel-versus-Concrete Debate Revisited: Global Warming Potential and Embodied Energy Analyses based on Attributional and Consequential Life Cycle Perspectives</title>
+      <link>https://mamarcus.github.io/publication/kua_maghi_2016/</link>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/publication/kua_maghi_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Policies to improve the Singapore Concrete Utilization Index - An attributional and consequential life cycle evaluation of possible effects of substituting concrete with bricks</title>
+      <link>https://mamarcus.github.io/publication/kua_sus_mar_2014/</link>
+      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/publication/kua_sus_mar_2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

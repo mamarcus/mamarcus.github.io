@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>food | Maghimai Marcus</title>
+    <link>https://mamarcus.github.io/tag/food/</link>
+      <atom:link href="https://mamarcus.github.io/tag/food/index.xml" rel="self" type="application/rss+xml" />
+    <description>food</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright:Maghimai Marcus, 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mamarcus.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>food</title>
+      <link>https://mamarcus.github.io/tag/food/</link>
+    </image>
+    
+    <item>
+      <title>Agri Food Production</title>
+      <link>https://mamarcus.github.io/project/food/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mamarcus.github.io/project/food/</guid>
+      <description>&lt;h3 id=&#34;system-explanation&#34;&gt;System explanation&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;The system boundary of crop production includes two main components: farm inputs and farm fuel use. Farm inputs include the application of seed, fertilizers, liming materials, and pesticides. Farm fuel use includes the energy required for farm machinery operations, farm transport, machinery supply (indirect energy), and heating and lighting requirements during drying and storage.&lt;/p&gt;
+&lt;p&gt;Farm field operations include general activities such as seeding, weed control, applying soil amendments, and harvesting. Seeding and tillage of annual crops include activities such as plow, disk and seed; weed control and pesticides application include cultivation and spraying; applying soil amendments includes use of fertilizers and lime; and harvest of annual crops include swathing (cut and windrow), combining and carting the grains off the field. Fuels used in farm machinery such as seeders, cutter bars, conveyor belts, grinders, crushers, shakers, harvesters, rollers, and tractors are also considered.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
